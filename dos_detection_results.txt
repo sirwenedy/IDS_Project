@@ -1,0 +1,18 @@
+Cross-Validation Accuracy: 0.9998 ± 0.0001
+
+Confusion Matrix:
+[[2068   84]
+ [  26 2599]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+      Normal       0.99      0.96      0.97      2152
+         DoS       0.97      0.99      0.98      2625
+
+    accuracy                           0.98      4777
+   macro avg       0.98      0.98      0.98      4777
+weighted avg       0.98      0.98      0.98      4777
+
+Detection Rate: 0.9901
+FPR: 0.0390
