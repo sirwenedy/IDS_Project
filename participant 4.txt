@@ -1,0 +1,79 @@
+Ayokunle Afolalu  
+Okay, okay, um, the first question is, um, can you describe your general experience with managing  intrusion detection systems in the professional cyber security environment.
+
+Participant 4  
+Yes, I have seen someone use it, and I've also used it. Can you hear me? Yes, I can Okay. Describe my experience using it, yes. Well, the tool I used, I used rapid seven. And from my experience, it's actually a very good tool. I really liked their documentation part of it, compared to s1 Sentinel one, although, sentinel 1 is an XTR, but yeah, but I prefer I really liked rapid seven because of their documentation, it was really easy for me to catch up. So, yeah,
+
+Ayokunle Afolalu  
+okay, okay, I'll just go to the next question. Thank you. Do you know how these IDS' are typically deployed in the workplace to monitor and protect against cyber trends.
+
+Participant 4  
+Um, no, I do not. I guess that's the work of the engineering team, because I'm in the SOC department. So, I mean, by time I joined the organization, those tools were already in place, so I just had to use them. I didn't know how they were deployed. I didn't know any I don't have that background knowledge.
+
+Ayokunle Afolalu  
+That's fine. So I'll go to the third question, do you know what role IDs is play in the overall cyber security strategy, or, posture of an organization, maybe how important they are,
+
+Participant 4  
+yeah, so I think they are very, very, very important, right? I mean, going back to the CIA triad, it helps for the it helps with the availability, because using r7 getting alerts, monitoring,  protecting our clients, making sure their information is available for them when they need it, which is essentially the A in what CIA stands for availability. So I think yes, because I don't know how humans would have been able to do all of those things, but they really help. Even sometimes they can just be quite stressful, because even when it's someone else or or a useror a staff. for example, staff relocates and is accessing  the network from another location or using a different IP address. Rapid seven will give you an alert. So on some days, those kind of alerts can be stressful when it's just the actual person doing their job, right? But overall, yeah, I think it plays a very important role.
+
+Ayokunle Afolalu  
+ Thank you. Yeah, I'll go to the fourth question. Have you ever encountered any operational challenges when using this IDs? 
+
+Participant 4  
+ where I work. When there's an alert, it's a very loud noise. So imagine having different users, maybe  they're on leave, but they had to quickly do something related to work, you know, logging in from different locations using different IP addresses. You know, imagine getting that kind of loud noise. I just reached out the way r7 could detect that, Oh, these are actually users that are doing their jobs are not just making noise with alert sounds.
+
+Ayokunle Afolalu  
+Okay? Those are like, false positives, right?
+
+Participant 4  
+Yeah, there are false positives. But, I mean, , I really, really, always hear those sounds in my sleep. I just wish there was a way to just you know reduce them.
+
+Ayokunle Afolalu  
+yeah, oh, okay, the fifth one in your experience, what are the most significant risks associated with relying on IDS for threats detection?
+
+Participant 4  
+I have to think, I wish I got the questions beforehand, but you have to pardon me.
+
+Ayokunle Afolalu  
+Oh, no, it's fine. So do you want to skip that?
+
+Participant 4  
+Well, risk, risk, risk, risk. So I think false positives, like you have said, false alarm, wasting my time and my resources and configuration and maintenance probably, I guess, do you need regular updates, maintenance? I mean, it's expensive. R7 is expensive. Then they they might not be able to detect them zero day threats. So that works. I think that's all I have for now. If there's a next time, probably ask for the questions beforehand.
+
+Ayokunle Afolalu  
+Okay, so the sixth one, um, how do false positive alerts from IDS is impact security operations, and do you know any maybe strategies that you can use to, like, reduce these false positives?
+
+Participant 4  
+Yeah, if I knew any strategy trust me i would have suggested or sent email to those people, because those alerts so I think repeated false positives, personally, they can just lead to a alert fatigue. Because I mean getting like five false positive during my shifts, when I actually get it true alert, a real alert, I might feel like or assume it is also false positive. I'm not even bothered to investigate and waste my time and resources, my trust is reducing every day of this life that I am in that shift, like I said, I'll overlook actual alerts, because, I mean, there was a night I was on shift and I got all I got was false postive I just went to sleep, right? So imagine that kind of situation when the real alert comes. You think it's a false positive, so, well, I think for strategies, maybe optimization or alert prioritization, I don't know. I mean, that's what's coming to head right now, if there's a way to prioritize the alerts or optimize them, I would really appreciate, I don't know if the same the same for everybody, or that's like a major concern in this life regarding IDS, or our seven,
+
+Ayokunle Afolalu  
+That's fine. So for this seventh one, do you know how IDs is integrates with other security systems
+
+Participant 4  
+I'm supposed to know, right? But I don't know, because I remember when I was on-boarding, I went through all of that thing, but I can't remember, and I didn't know the questions were going to be this technical, right? Because, trust me, yesterday, when I was reading a message, I was I was I was I was barely awake, but yeah, um, I'm supposed to know, but I don't know. I'll probably know by Monday, when I get to the office, I'll check it out. Okay, I did a lot of this onboarding thing, but I've forgotten. So, yeah, I don't right now.
+
+Ayokunle Afolalu  
+Okay, so maybe I can just send you this particular question, right? Maybe you can get back to Okay, okay, well, okay, for the eighth one. Do you know, um, any factors that might influence the choice between an anomaly based intrusion detection system on a signature based one
+
+Participant 4  
+I am trying. I don't I don't want to consult AI. So I'm trying to give you my honest response as much as I can. So when, when I'm in this zone where I can't think, I'll probably answer that. But right now, I'm just so tired. 
+
+Ayokunle Afolalu  
+What metric do you think is the most important metric is it like accuracy or response time ?
+
+Participant 4  
+I think accuracy, response time, price. I mean, that's an an important factor, price, pricing people use different IDS now, but where I work they use R7. I mean, because they can afford it, if they could not afford it, they probably go for something else. But people have what they're looking out for, right? So the the management, well, I think so far from where I will R7 has quite been very accurate. And, yeah, I think accuracy works. That's the word.
+
+Ayokunle Afolalu  
+Do you think older data sets are more suitable or like newer data sets for evaluatig IDS.
+
+Participant 4  
+I think the world is evolving, right? So newer data sets should be more suitable. Okay,
+
+Ayokunle Afolalu  
+Okay, last question, what? What are your thoughts on the effectiveness of IDS in detecting modern threats.
+
+Participant 4  
+So I think with the advent of AI right, the people behind this IDS, they have a lot of work to do, and you can you you know yourself that these things, they are starting to incorporate AI into their their engines, into this detection systems, right? So I think though they see more more work to be done, but with what we have for now, because some of these false policies are always generated by AI, especially if you use Sentinel one. So I think that they are getting there, but, I mean, they are getting there, but there's a lot of work to do, more AI, more problems. So it's just going to have to be a continuous research work. There's just going to be something to be done. I mean, if it was not AI. They might not be a lot of work to do, but because of AI, now they have to be on their toes the engineers behind this IDS, they have to be on their toes and making sure that everything is always up to date, because you never know what can happen the next minute. 
+
+Transcribed by https://otter.ai

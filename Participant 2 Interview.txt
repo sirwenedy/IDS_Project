@@ -1,0 +1,25 @@
+Ayokunle Afolalu  
+it. Oh, no, it's okay. So, um, you don't have to answer everything. You can just answer the ones. Okay, okay, thank you. I'll just okay. Can you describe, like, your general experience with maybe Intrusion detection systems in a professional cyber security environment? Like, do you have any maybe you dont have immediate experience, but can you just share some knowledge about intrusion detection systems in the professional world?
+
+Participant 2  
+Okay, so, basically, what the question you asked is about intrusion detection system, right? So how it works, and the ways you know interact, and All right, so, so I've known Intrusion detection system to know at monitoring network traffic and your system behavior for signs and suspicious authorities activity, just like if you knew about wire shark, I believeyou should know about wire shark, right? Yeah.  monitor packets, you know, all those protocols, I know, right? But it's, it's, it's more advanced, right? So it's mainly used for, you know, printing, preventing breaches and damages, right before escalating. Do you understand? So it's just used to monitor, you know, all those traffic,  Thank God you know about wireshark. 
+
+Ayokunle Afolalu  
+ how do you think they deploy the practices that they use to deploy it.
+
+Participant 2  
+ they make use of it for, you know, for for, you know, checking of networking, and you know, when an attack is launched to an organization. So. Like, do you understand, or your website or another thing to get, so it checks for it and all. So it just basically working system for an organization 
+
+Ayokunle Afolalu  
+Okay, so what operational challenges do you think this idea systems like have in the workplace? Hmm,
+
+Participant 2  
+ I want to come from the aspect of using that anomaly detection stuff, right, incorporating with your intrusion detection system, right? So I want to come from that angle. So so far, you're coming the up the challenges the faces, right? So I will say, high false positive rates, right? Because IDs can flag, legitimate activity as suspicious overwhelming the  security system, right? Okay, so, and let's talk about the scalability and performance, right? So monitoring large volumes of network traffic, so it's just normal thing, in real time,  processing power and all. 
+
+Ayokunle Afolalu  
+ Let's, let's move on to the next one. So, okay, so how do you think, you know, you spoke about false positive a lot, right? So how do you think these false positives could, like, impact the security operations, and how do you think they can manage them effectively, like, manage false positives?
+
+Participant 2  
+Okay, so I'll start with, how do you think, how do I think managing false positive, right? So I think the best way to manage that story, right, it's, it's, it's constantly, you know, updating, right? So, constantly updating, constantly checking through the system at large, dont just leave because it is already working on its own, do you understand? So what I'm trying to say is, what I'm trying to say that checking for, like, updating, because attackers nowadays, blockers nowadays, right? They are evolving with knowledge, trust me, really evolving ways. I'm a penetration tester to understand, so I know how these things work. So thinking of more advanced way to get to update the system. That is why update is very important to get upgrading. Update is very, very important. 
+
+Transcribed by https://otter.ai

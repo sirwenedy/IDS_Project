@@ -1,0 +1,88 @@
+Ayokunle Afolalu  
+Okay, so it's basically just 10 questions you can choose to skip. If you if you cant answer them, do you get?. Okay. So the first question is, can you describe like your general experience with managing IDS's or do you have any experience in maybe using or seeing where they use IDSS in a professional cybersecurity Environment.
+
+Participant 3  
+Okay, yeah. So currently where I work and we use multiple IDSS, and they are, they are on different layers, so we have IDSS on the network layer and also the hosts, and then system hosts. And then all our IDs is usually reports to a SIEM solution, which charges all the alerts. And then we can use to we can use for investigations and pinpoint SIEM and root causes and stuff so, Yes i have experience with a few IDs, both on the network layer and then host layer as well. 
+
+Ayokunle Afolalu  
+Thats beautiful Alright, let me go to the next question. So do you know how IDSS are typically deployed in workplace? Networks like to monitor and protect against cyberthreats. Do you know how they are deployed?
+
+Participant 3  
+So ehm, usually on host systems you can you can either use an agent which we in my bank currently leverage. So we have multiple security solutions which we deploy, but the most, the most used one, which is leveraged almost bank-wide is the Microsoft defender for endpoints. So it's it reports alerts to our SIEM, which we used to monitor, and also it also gives us real time view of all, I say, attacks that are currently happening, and gives us a way we can use to contain devices especially if there's in malware, so it doesn't spread throughout network as well. Then also, we have ones on our network layer as well, which usually includes both proxy and then firewalls. So we have the we have the option to either block threats real time, or we can also leverage threat intelligence for blocking attacks and threats as as they come by.
+
+Ayokunle Afolalu  
+Thank you. So the next question, ehm, what role do IDSS play in overall cyber security strategy of an organization, and how important do you think they are compared to maybe other security tools, like maybe the IPS, like, how important do you think they are? and what role do they play?
+
+Participant 3  
+Yeah, so they play. They play a very important role. First of all, even based on governance and at risk. So an organisation like mine, wouldn't even be able to get a lot of salutations and stuff without having IDs. It's implemented by default. yeah, so you typically have them implemented by default. So striving with  CBN regulations and some stuff. So, yeah, I think that's how I would answer that question. 
+
+Ayokunle Afolalu  
+Cool. So the next question, which is Question four, what primary operational challenges have you personally encountered, or do you think the company you work for has encountered when using IDs in the workplace.
+
+Participant 3  
+Okay? So I think the only operational, the only operational challenge when we face is issues with the OEMs themselves. So sometimes they might be caches which will need to deploy as possible. It might be system failures. There might be power outages and stuff. So, yeah, those, those kind of problems,
+
+Ayokunle Afolalu  
+issues, issues with the what?
+
+Participant 3  
+OEMs, the manufacturers of the security product
+
+Ayokunle Afolalu  
+okay what about maybe? Have you ever encountered a problem like dealing with high traffic networks?
+
+Participant 3  
+Encounter the problem so sometimes it's there might be a spike probably in in browsing or or user engagements, which might tend to probably overload systems, which we typically use. But I don't thinkit has happened while I have been on job, so, but it can happen, and it tends to happen as well. Okay, especially if you don't buy the right solution specifications for your current infrastructure.
+
+Ayokunle Afolalu  
+So I'll go to the next question. What do you think are the risks associated with relying on IDS for threats detection, the risks that are associated with relying on IDs fot threat detection. Do you think there are any risks?
+
+Participant 3  
+Yes, they would typically should be risks, but I think we are better off using them than not. so if i was to thiink about the risks, I think it will depend on the the solution which you're procuring. So as you know, different solutions are better than others, depending on industry standards and price ranges as well. So if you, if you rely on maybe something cheaper or something less effective, so definitely, they will definitely bring it at risk than using the more reliable options  
+
+Ayokunle Afolalu  
+move over to the sixth question. Do you know how false positive alerts from IDs is impact security operations, and what do you think are some strategies that you think can like manage false positive alerts.
+
+Participant 3  
+Yeah, so false positive alerts, it's given the usually, when you configure a new solution, there will be a lot of false positive alerts, especially if you deploy, custom rules on your  IDSs or IPSs. So a way to mitigate would be fine tuning the rules that you configure and also making sure that you have only alerts that your analyst can manage. So it's not like the the systems are picking up just one known data, you actually need   to make sure that all those alerts that are being generated are actually critical alerts, and an alerts that should be sent to your analyst to review, so not just your typical user behavior. So it should be, it should be things that are anomalies, and then deviate from normal activity within your environment. So you can also leverage AI as well and to help fine tune these alerts. And yeah, so it's the the landscape keeps changing and then. And getting better as well. So, yeah, that's how i would answer that question.
+
+Ayokunle Afolalu  
+Okay, so i would go to the 7th question, do you know, how do our IDs is integrate with other systems, and how do they move hand in hand with other security systems like IPS, SIEM, and SOAR platforms,
+
+Participant 3  
+yeah, so IDs is typically, especially depending on the solution, which you procure, they usually have connectors and their agents they have ways of communicating with other other security solutions. Then it also depends on the solution itself, like so a lot of solutions can support integration with other solutions, yeah. So, it depends on the solutions you procure and how they can easily integrate with other solutions.
+
+Ayokunle Afolalu  
+Okay, so I'll go to the eighth one. So do you know what factors could influence the choice between anomaly based k and signature based IDS in the workplace? Do you know, like, what factors could influence the choice between maybe an anomaly based and signature based IDS system?
+
+Participant 3  
+I don't think I know how to answer that question but I can get back to you.
+
+Ayokunle Afolalu  
+So I'll go to the next one. So next one is, how do organizations evaluate the effectiveness of IDS in the workplace. what metric do you think they value the most? 
+
+Participant 3  
+it's accuracy, and make sure your alerts actually lead to somewhere so so your analysts are not just doing investigations to get into dead ends. 
+
+Ayokunle Afolalu  
+Okay, so definitely, you're saying accuracy is more important than maybe response time.
+
+Participant 3  
+The response time also matters, but I think you should be responding to something that is accurate. So, yeah, something that is inaccurate is there's definitely an elapsing process there.
+
+Ayokunle Afolalu  
+Okay, so 10th question. Do  you have any experience between using data sets with IDSS and what is your take on using older data sets for developing and evaluating IDS's as compared to newer data sets.
+
+Participant 3  
+I believe both of them are are important, but using newer data sets because of the evolving threat landscape and new attacks that are currently being developed would be more beneficial to use when they are configuring your IPSs or IDSs, so usually we just depend on what's the OEM has integrated with their solution. So we also we make sure that our solutions have threat intel feeds into them. So it's not just that we have a reactive approach. So. Have a proactive solution that can help us and make sure this new threats are also being acted on. 
+
+Ayokunle Afolalu  
+This is the 11th one, What are your thoughts on the effectiveness of the IDSs in detecting modern threats such as denial service attacks, compared to maybe traditional approaches that they use before 
+
+Participant 3  
+yeah. So, as I think I've said before, IDSs are typically more robust in the way they handle and deal with threats and also the data that they leverage to detect attacks. Yeah, so in modern IDS would generally be way better than traditional approach, which would just be your stateful firewalls or your firewalls that just block based on IP addresses that you that you've already configured into them. So yeah, the newer IPSs and IDSs would make a whole lot of difference compared to the traditional methods, and then hopefully there will be newer and more advanced technology that would hopefully supersede these, the IPSs and IDSs  as we've seen in the industry. 
+
+Ayokunle Afolalu  
+yeah, that's all. Thank you so much for sacrificing your time. I appreciate it. 
+
+Transcribed by https://otter.ai
